@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc -w",
     "dev": "nodemon build/index.js",
-    "appfor": "forever app.js"
+    "appEmail": "forever app.js",
+    "appApi" : "forever build"
   },
   "keywords": [],
   "author": "",
