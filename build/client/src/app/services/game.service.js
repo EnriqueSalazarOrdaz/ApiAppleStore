@@ -10,7 +10,7 @@ const core_1 = require("@angular/core");
 let GameService = class GameService {
     constructor(http) {
         this.http = http;
-        this.API_URI = 'http://localhost:3000/api';
+        this.API_URI = 'http://157.230.223.107:3000/api';
     }
     getGames() {
         return this.http.get(`${this.API_URI}/games`);

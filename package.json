@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -w",
-    "dev": "nodemon build/index.js",
-    "appEmail": "forever app.js",
-    "appApi" : "forever build"
+    "dev": "nodemon build/index.js"
   },
   "keywords": [],
   "author": "",

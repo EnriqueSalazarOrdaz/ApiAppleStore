@@ -74,4 +74,4 @@ app.post('/send',(req,res)=>{
     
     });
 
-app.listen(3001,()=>console.log('server started...'));
+app.listen(3001, '157.230.223.107',()=>console.log('server started...'));

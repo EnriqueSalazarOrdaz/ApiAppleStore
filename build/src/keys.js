@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     database: {
-        host: 'localhost',
-        user: 'root',
-        password: '',
-        database: 'ng_games_db'
+        host:'157.230.223.107',
+    user:'monty',
+    password:'Arik1340!',
+    database: 'ng_games_db'
     }
 };
